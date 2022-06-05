@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "675144197162",
+    "project_id": "uniodimpl",
+    "storage_bucket": "uniodimpl.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:675144197162:android:8be284db49d3328ac8cf53",
+        "android_client_info": {
+          "package_name": "com.edgarsz.uniODimpl"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "675144197162-v1c8jr10asfr2dgblpmprp8rgq43da2l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.edgarsz.uniODimpl",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "675144197162-7d41i1ap12se3ktotrbkodb3c70nh2m3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtZTePSrmDGDdtZsXrTfv2XwwWLC_nBjg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "675144197162-7d41i1ap12se3ktotrbkodb3c70nh2m3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "675144197162-4qs8rp6t3ticf5qgtlifd3s0q2abfu71.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.edgarsz.uniODimpl"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
